@@ -70,9 +70,9 @@ print("The dog's age in dog's years is", d_years)
 
 # exercise-04 What kind of Triangle?
 # print("Input lengths of the triangle sides: ")
-# x = int(input("x: "))
-# y = int(input("y: "))
-# z = int(input("z: "))
+x = int(input("x: "))
+y = int(input("y: "))
+z = int(input("z: "))
 
 if x == y == z:
 	print("Equilateral triangle")
